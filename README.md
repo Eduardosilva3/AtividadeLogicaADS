@@ -7,12 +7,12 @@
 ## Descrição da atividade Avaliativa Final
 
   Considere o seguinte problema:
-• Um professor precisa de um programa para gerenciar as notas de seus alunos.
-• Cada aluno terá três notas para compor a sua média da unidade, calculada através de média
+*Um professor precisa de um programa para gerenciar as notas de seus alunos.
+•Cada aluno terá três notas para compor a sua média da unidade, calculada através de média
 aritmética.
-• A situação do aluno poderá ser APROVADO (média igual ou superior a 6,0), EXAME FINAL
+*A situação do aluno poderá ser APROVADO (média igual ou superior a 6,0), EXAME FINAL
 (média maior ou igual a 3,0 e menor que 6,0) ou REPROVADO (média menor que 3,0).
-• O professor deseja premiar com medalha de ouro, prata e bronze para os alunos com as 3
+*O professor deseja premiar com medalha de ouro, prata e bronze para os alunos com as 3
 maiores médias.
 Faça um programa que faça as seguintes funções:
 1. Função obterSituacaoAluno: calcular a média e retornar a situação do aluno
