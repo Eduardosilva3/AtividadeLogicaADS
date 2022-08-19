@@ -6,7 +6,7 @@
 
 ## Descrição da atividade Avaliativa Final
 
-  ###Considere o seguinte problema:
+  Considere o seguinte problema:
 • Um professor precisa de um programa para gerenciar as notas de seus alunos.
 
 • Cada aluno terá três notas para compor a sua média da unidade, calculada através de média
